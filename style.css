@@ -1,0 +1,12 @@
+.friend {
+	background-color: steelblue;
+}
+
+.friend h3 {
+	text-transform: uppercase;
+}
+
+h3,
+p {
+	text-align: center;
+}
